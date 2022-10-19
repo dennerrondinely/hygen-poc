@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Typography /> should render the heading h1 1`] = `
+.c0 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  color: #575453;
+  text-align: start;
+}
+
+<h1
+  class="c0"
+>
+  Typography
+</h1>
+`;
+
+exports[`<Typography /> should render the heading h2 1`] = `
+.c0 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  color: #575453;
+  text-align: start;
+}
+
+<h2
+  class="c0"
+>
+  Typography
+</h2>
+`;
+
+exports[`<Typography /> should render the heading p 1`] = `
+.c0 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  color: #575453;
+  text-align: start;
+}
+
+<p
+  class="c0"
+>
+  Typography
+</p>
+`;
+
+exports[`<Typography /> should render the span 1`] = `
+.c0 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  color: #575453;
+  text-align: start;
+}
+
+<span
+  class="c0"
+>
+  Typography
+</span>
+`;
